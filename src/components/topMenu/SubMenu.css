@@ -1,0 +1,12 @@
+ul > li {
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}
+.menuItem {
+    background-color: white;
+    color: grey;
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 50%;
+}

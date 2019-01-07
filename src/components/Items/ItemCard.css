@@ -1,0 +1,19 @@
+.itemCard{
+    display: inline-block;
+    border: solid 1px black;
+    box-shadow: 0 8px 6px -6px black;
+}
+ul>li{
+    display: inline-block;
+    zoom:1;
+    *display:inline;
+}
+.border{
+
+}
+.cardItem{
+    padding: 5px;
+}
+.fields{
+    width: 1400px;
+}

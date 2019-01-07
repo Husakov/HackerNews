@@ -1,0 +1,23 @@
+.header{
+height: 70px;
+    background-color: orangered;
+    color: white;
+    padding: 0;
+    display: compact;
+}
+ul{
+    list-style: none;
+}
+.title{
+    font-size: 30px;
+    padding: 5px;
+    color: white;
+}
+.rightItems{
+    float: right;
+    padding: 30px;
+}
+.subheader{
+    background-color: whitesmoke;
+    color: white;
+}
